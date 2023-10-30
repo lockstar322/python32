@@ -1,0 +1,79 @@
+.one {
+    background-color: rgb(37, 37, 37);
+    padding-top: 20px;
+    font-family: Arial;
+}
+.logo {
+    color: white;
+    font-size: 36px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.menu {
+    display: flex;
+    margin-right: 20%;
+    margin-left: 20%;
+}
+.link {
+    color:white;
+    font-size: 16px;
+    margin-right: 5px;
+    width: 10%;
+    padding-bottom: 5px;
+}
+.link:hover {
+    border-bottom: 4px solid white;
+    color:white;
+    font-size: 16px;
+    margin-right: 5px;
+    width: 10%;
+    padding-bottom: 5px;
+}
+.two {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-top: 20px;
+}
+.right {
+    border: 1px solid black;
+    width: 30%;
+}
+.right h1 {
+    margin: 0px;
+}
+.left {
+    border: 1px solid black;
+    width: 70%;
+    margin-right: 10px;
+}
+.left img{
+    width: 100%;
+
+}
+.three {
+    display: flex;
+    margin-left: 20%;
+    margin-right: 20%;
+    align-items: center;
+    justify-content: space-between;
+}
+hr {
+    width: 30%;
+}
+.three h2 {
+    width: 40%;
+    text-align: center;
+}
+.four {
+    margin-left: 20%;
+    margin-right: 20%;
+    
+}
+table {
+    width: 100%;
+}
+td{
+    border: 1px solid red;
+}
